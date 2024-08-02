@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;redclip/src/main/webapp/WEB-INF/views/barter/change.jsp&apos; to &apos;update.jsp&apos;" description="Rename resource &apos;change.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/barter/change.jsp" name="update.jsp" stamp="1721302554983" updateReferences="true"/>
+</session>

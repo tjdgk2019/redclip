@@ -1,0 +1,11 @@
+
+7월 18, 2024 18:29:42.90 NEW SESSION
+7월 18, 2024 18:29:42.90 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+7월 22, 2024 12:47:29.167 NEW SESSION
+7월 22, 2024 12:47:29.167 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+7월 30, 2024 16:08:30.689 NEW SESSION
+7월 30, 2024 16:08:30.689 Created TensorFlow Lite XNNPACK delegate for CPU.
+7월 30, 2024 17:24:28.96 Created TensorFlow Lite XNNPACK delegate for CPU.
+7월 30, 2024 17:39:52.374 [14608:7808:0730/173952.374:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost

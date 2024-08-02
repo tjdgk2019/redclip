@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;redclip/src/main/webapp/resources/upload/REDCLIP_20240718193318_982.webp&apos;" deleteContents="false" description="Delete resource &apos;redclip/src/main/webapp/resources/upload/REDCLIP_20240718193318_982.webp&apos;" element1="/redclip/src/main/webapp/resources/upload/REDCLIP_20240718193318_982.webp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1721300031283"/>
+</session>
